@@ -90,8 +90,7 @@ Aunque no se recogen datos personales, los usuarios tienen derecho a:
 - Revocar permisos concedidos a la Aplicación desde la configuración de Android.
 - Eliminar la Aplicación y, con ello, cualquier dato local generado.
 
-Para cualquier consulta relacionada con la privacidad, puedes contactar con el desarrollador en:
-**[tu-email@ejemplo.com]**
+Para cualquier consulta relacionada con la privacidad, puedes contactar con el desarrollador en: visisoftwareapps@gmail.com
 
 ---
 
