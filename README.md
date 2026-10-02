@@ -1,6 +1,6 @@
 # Política de privacidad de VisiGames
 
-**Úłtima actualización:** 03/09/2026
+**Úłtima actualización:** 02/10/2026
 
 Esta Política de Privacidad describe cómo **VisiGames** ("la Aplicación") trata la información de los usuarios. La Aplicación está diseñada para **no recoger, almacenar ni compartir datos de carácter personal** y **no incluye publicidad**.
 
