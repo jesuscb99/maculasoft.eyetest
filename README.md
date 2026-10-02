@@ -1,8 +1,8 @@
-# Política de privacidad de VisiKids
+# Política de privacidad de VisiGames
 
 **Úłtima actualización:** 03/09/2026
 
-Esta Política de Privacidad describe cómo **VisiKids** ("la Aplicación") trata la información de los usuarios. La Aplicación está diseñada para **no recoger, almacenar ni compartir datos de carácter personal** y **no incluye publicidad**.
+Esta Política de Privacidad describe cómo **VisiGames** ("la Aplicación") trata la información de los usuarios. La Aplicación está diseñada para **no recoger, almacenar ni compartir datos de carácter personal** y **no incluye publicidad**.
 
 ---
 
@@ -10,7 +10,7 @@ Esta Política de Privacidad describe cómo **VisiKids** ("la Aplicación") trat
 
 El responsable del tratamiento de datos relacionados con la Aplicación es:
 
-- **Nombre de la aplicación:** VisiKids
+- **Nombre de la aplicación:** VisiGames
 - **Desarrollador:** Jesús Carreño Bolufer
 
 ---
