@@ -17,7 +17,7 @@ El responsable del tratamiento de datos relacionados con la Aplicación es:
 
 ## 2. Datos que se recogen (o no se recogen)
 
-VisiKids **no recoge ni procesa datos de carácter personal**, tales como:
+VisiGames **no recoge ni procesa datos de carácter personal**, tales como:
 
 - Nombre, apellidos, dirección, correo electrónico, teléfono
 - Identificadores de publicidad o de dispositivo con fines de perfilado
@@ -45,7 +45,7 @@ La Aplicación funciona íntegramente de forma **local en el dispositivo**, y cu
 
 ## 4. Permisos del dispositivo
 
-VisiKids puede solicitar permisos del dispositivo ú'nicamente para permitir su correcto funcionamiento (por ejemplo, acceso a la cámara o al almacenamiento si la app lo requiere para mostrar o guardar imágenes de forma local).
+VisiGames puede solicitar permisos del dispositivo ú'nicamente para permitir su correcto funcionamiento (por ejemplo, acceso a la cámara o al almacenamiento si la app lo requiere para mostrar o guardar imágenes de forma local).
 
 En todo caso:
 
@@ -69,7 +69,7 @@ No existe un plazo de conservación específico, ya que **no hay datos personale
 
 ## 6. Compartir datos con terceros
 
-VisiKids **no comparte datos personales con terceros**, ya que **no recoge datos personales**.
+VisiGames **no comparte datos personales con terceros**, ya que **no recoge datos personales**.
 
 La Aplicación:
 
@@ -97,7 +97,7 @@ Para cualquier consulta relacionada con la privacidad, puedes contactar con el d
 
 ## 8. Menores
 
-VisiKids puede estar dirigida a menores, pero **no recoge datos personales de ningún usuario**, incluidos los menores.
+VisiGames puede estar dirigida a menores, pero **no recoge datos personales de ningún usuario**, incluidos los menores.
 
 No se solicita ni se trata información personal de ni˜nos ni ni˜nas. En consecuencia, no es necesario un consentimiento parental para la recogida de datos, dado que **no existe tal recogida**.
 
@@ -123,6 +123,6 @@ Esta Política de Privacidad se rige por la normativa de protección de datos ap
 
 ## 11. Contacto
 
-Para cualquier duda, sugerencia o ejercicio de derechos relacionado con la privacidad en VisiKids, puedes contactar con el desarrollador en:
+Para cualquier duda, sugerencia o ejercicio de derechos relacionado con la privacidad en VisiGames, puedes contactar con el desarrollador en:
 
 - **Correo electrónico:** visisoftwareapps@gmail.com
