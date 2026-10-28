@@ -1,6 +1,6 @@
 # Política de privacidad de VisiGames
 
-**Úłtima actualización:** 02/10/2026
+**Úłtima actualización:** 28/10/2026
 
 Esta Política de Privacidad describe cómo **VisiGames** ("la Aplicación") trata la información de los usuarios. La Aplicación está diseñada para **no recoger, almacenar ni compartir datos de carácter personal** y **no incluye publicidad**.
 
@@ -11,7 +11,7 @@ Esta Política de Privacidad describe cómo **VisiGames** ("la Aplicación") tra
 El responsable del tratamiento de datos relacionados con la Aplicación es:
 
 - **Nombre de la aplicación:** VisiGames
-- **Desarrollador:** Jesús Carreño Bolufer (Spain)
+- **Desarrollador:** Jesús Carreño Bolufer (Spain) y Rubén Cabrera Beyrouti (Spain)
 
 ---
 
